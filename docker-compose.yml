@@ -15,5 +15,5 @@ services:
     volumes:
       - seafile-data:/seafile-data
 
-  volumes:
-    seafile-data:
+volumes:
+  seafile-data:
