@@ -17,3 +17,4 @@ services:
 
 volumes:
   seafile-data:
+  seafile-config:
